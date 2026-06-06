@@ -47,7 +47,7 @@
 
 贡献你改过 / 看过 / 自己的简历 before/after 案例,**前提是完全脱敏**(姓名、公司、学校、具体可识别数据都改掉)。
 
-格式参考 `examples/经验多-xxx/` 和 `examples/经验少-xxx/`。
+格式参考 `examples/经验充足/` 和 `examples/经验较少/`。
 
 通过审核的案例会加入 examples/ 文件夹。
 

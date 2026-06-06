@@ -2,6 +2,12 @@
 
 > English | [中文](README.md)
 
+> **🎉 v0.2 update**: New `/创建简历` command — for people in life transitions (fresh grads / career changers / overseas returnees / gap-period restarters). AI rebuilds the resume narrative via iterative interview-style probing. **Optional upload of existing resume (LinkedIn / old version / overseas) — AI uses it as material and skips already-answered questions.** Bilingual output by default. Includes 4 user-type-specific question sets and a 7-step workflow.
+>
+> **v0.1** (released): Three-layer methodology + 4 company-type patterns + 12 role patterns + 4 slash commands (诊断 / 改简历 / JD匹配 / 加规则).
+
+---
+
 **A resume methodology toolkit for Chinese industry job seekers.**
 **Not another AI resume generator — this codifies how a senior HR consultant actually edits resumes.**
 
@@ -86,14 +92,24 @@ Company type defines the overall style; **role defines specific vocabulary, JD-m
 
 v0.1 covers 12 most-demanded roles. Contributions welcome for more (Procurement, CSM, Admin, PR, Investment, Engineering specializations, etc.). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## 4 Slash Commands
+## 5 Slash Commands
 
 ```
-/诊断 (diagnose)  — Run first. Tells AI your goal (role / industry / company type / language / career change)
-/改简历 (edit)    — Main command. AI edits your resume by the methodology, outputs final .docx
-/JD匹配 (match)   — Check your resume against a specific JD with targeted rewrite suggestions
-/加规则 (add-rule) — (Advanced) Add newly discovered rules to patterns/ on the fly
+/诊断 (diagnose)   — Run first. Tells AI your goal (role / industry / company type / language / career change)
+/改简历 (edit)     — In-place job switch with intact resume — AI polishes details
+/创建简历 (write)  — Life transition (fresh / career change / overseas return / gap restart). AI rebuilds the narrative via iterative probing. **Optional existing resume upload — AI uses it as material, skips already-answered questions.** Bilingual output by default ⭐ NEW in v0.2
+/JD匹配 (match)    — Check your resume against a specific JD with targeted rewrite suggestions
+/加规则 (add-rule)  — (Advanced) Add newly discovered rules to patterns/ on the fly
 ```
+
+**`/改简历` vs `/创建简历` — when to pick which**:
+
+| Your situation | Pick |
+|---------|-------|
+| Already employed, resume complete, just switching to a better role in same direction | `/改简历` |
+| Fresh grad / career changer / overseas returnee / gap restarter | **`/创建简历`** |
+
+**Note**: `/创建简历` accepts optional existing resume upload (LinkedIn / old version / overseas version). AI reads it as background, **skips already-answered questions, only asks what's missing**. The fundamental difference: `/改简历` polishes wording; `/创建简历` **rebuilds the narrative** — required for life transitions even if you have an existing resume.
 
 ---
 
