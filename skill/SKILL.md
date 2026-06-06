@@ -1,6 +1,6 @@
 ---
 name: industry-resume-toolkit
-description: 为中国 industry 求职者打造的简历优化方法论。把"资深 HR 顾问怎么改简历"codify 出来,让用户用 AI 自助优化自己的简历。覆盖大厂(互联网/科技)/ 国央企 / 银行金融 / 外企 4 种企业性质,12 个常见岗位(运营/产品/数据/市场/财务/审计/HR/销售/开发/法务/战略/设计),实习/校招/社招都适用,中英文都做。当用户需要改自己的简历、点评简历、做 JD 匹配、按目标企业性质定制简历内容时,使用此 skill。核心方法是"三层框架"(信息卫生 / 业务价值翻译 / 经历挖掘)。区别于通用 AI 简历生成器,此 skill 是 HR 顾问视角的方法论,强调保真原则(不夸大职责)、industry-specific 内行知识。Industry resume editing methodology for Chinese job seekers — used by the resume owner themselves, not by a consultant.
+description: 为中国 industry 求职者打造的简历优化方法论。把"资深 HR 顾问怎么改简历"codify 出来,让用户用 AI 自助优化自己的简历。覆盖大厂(互联网/科技)/ 国央企 / 银行金融 / 外企 4 种企业性质,12 个常见岗位(运营/产品/数据/市场/财务/审计/HR/销售/开发/法务/战略/设计),实习/校招/社招都适用,中英文都做。当用户需要改自己的简历、点评简历、做 JD 匹配、按目标企业性质定制简历内容时,使用此 skill。核心方法是"三层框架"(信息卫生 / 业务价值翻译 / 经历挖掘)。区别于通用 AI 简历生成器,此 skill 是 HR 顾问视角的方法论,强调保真原则(不夸大职责)、industry-specific 内行知识。Industry resume editing methodology for Chinese job seekers — used by the resume owner themselves, not by a consultant. 
 ---
 
 # Industry Resume Toolkit
