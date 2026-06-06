@@ -4,7 +4,7 @@
 
 > **🎉 v0.2 update**: New `/创建简历` command — for people in life transitions (fresh grads / career changers / overseas returnees / gap-period restarters). AI rebuilds the resume narrative via iterative interview-style probing. **Optional upload of existing resume (LinkedIn / old version / overseas) — AI uses it as material and skips already-answered questions.** Bilingual output by default. Includes 4 user-type-specific question sets and a 7-step workflow.
 >
-> **v0.1** (released): Three-layer methodology + 4 company-type patterns + 12 role patterns + 4 slash commands (诊断 / 改简历 / JD匹配 / 加规则).
+> **v0.1** (released): Three-layer methodology + 4 company-type patterns + 12 role patterns + 4 slash commands (诊断 / 改简历 / JD匹配 / 加规则). 
 
 ---
 
